@@ -54,3 +54,4 @@
 ### 6KYU
 
 1. [Пара перчаток 6kyu](https://www.codewars.com/kata/58235a167a8cb37e1a0000db)
+2. [Создайте четырехбуквенный код птиц из названий птиц 6kyu](https://www.codewars.com/kata/5a580064e6be38fd34000147)

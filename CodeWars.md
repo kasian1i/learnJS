@@ -2,6 +2,8 @@
 
 [Регистрируемся на сайте CodeWars](www.codewars.com/r/b4kz_A)
 
+![Решаем задачи не останавливаемся](https://www.codewars.com/users/imgusev/badges/small)
+
 ## Решаем задачи из коллекции
 
 [Коллекция для обучения JS](https://www.codewars.com/collections/obuchieniie-js)

@@ -36,3 +36,5 @@ console.log(generateSummary(names2, ages2, cutoffAge)); // "Не правиль�
 console.log(generateSummary(names3, ages3, cutoffAge));  // "Не правильные вводные данные"
 console.log(generateSummary(names, ages, 50));// "Нет людей удовлетворяющих требованиям"
 ```
+
+[Ссылка](https://telegra.ph/Zadacha-Sozdanie-kratkogo-otchyota-05-08)
